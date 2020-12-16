@@ -1,0 +1,17 @@
+{
+  "name": "-9-js-ui-wdio-xotabu4t",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo project for startIT students",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhii-shk/-9-js-ui-wdio-Xotabu4t.git"
+  },
+  "author": "Serhii Shkurenko <vizdehod@gmail.com>",
+  "license": "MIT"
+
+}
